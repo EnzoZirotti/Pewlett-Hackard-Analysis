@@ -40,7 +40,13 @@ I also want to go on and explain that in the deliverable 2 code that I had used 
 
 
 
+
+
 ![Screenshot](/optional_code.PNG)
+
+
+
+
 
 
 The reason I had used de.to_date was because the teachers assistant had told me that this is the way I should have done it. However the code I show above more accurately shows the most resent job they are having since I am going directly off of the titles column. 
